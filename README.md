@@ -37,3 +37,7 @@ The full project is available to view here:
 **Robert Long**
 Data Scientist | ML/AI Strategist
 [https://intelligenciaexmachina.com/](https://intelligenciaexmachina.com/)
+
+---
+
+**Disclaimer:** This project is a personal prototype created for educational and portfolio purposes. It is not affiliated with or intended to represent any company, brand, or commercial entity.
