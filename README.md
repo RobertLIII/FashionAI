@@ -27,7 +27,7 @@ FashionAI isn’t a finished product — it’s a demonstration of how data scie
 * OpenAI GPT + Diffusion-based image generation
 * Markdown and HTML for presentation layer
 
-## 📎 Live Demo
+## 📎 Demo
 
 The full project is available to view here:
 🔗 [https://intelligenciaexmachina.com/fashionai/](https://intelligenciaexmachina.com/fashionai/)
